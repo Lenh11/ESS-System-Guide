@@ -72,7 +72,7 @@ Sau khi cấu hình xong, test lại đường dẫn relative path như hình d�
               **[tại đây](#kinh-nghiem-ky-nang)**
             # Bad
               **[tại đây](#Kinh nghiệm & Kỹ năng)*
-    ```  
+   ```
     ```
     - Trường hợp mong muốn redirect đến các site khác và đến các đầu mục cụ thể:
         + Xác định cấp url và id của đầu mục cần redirect tới. 
@@ -106,4 +106,5 @@ Sau khi cấu hình xong, test lại đường dẫn relative path như hình d�
         * Nội dung 2.1.1
     * Nội dung 2.2
         * Nội dung 2.2.1
+        Lenh1 test
    ```
