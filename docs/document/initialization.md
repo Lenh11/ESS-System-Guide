@@ -1,12 +1,10 @@
 
 
-# Thiết lập và khai báo dữ liệu ban đầu
-
-### Thiết lập các thông tin ban đầu
+## Thiết lập và khai báo dữ liệu ban đầu
 
 Việc thiết lập và khai báo ban đầu được thực hiện khi lần đầu cài đặt ứng dụng, giúp khởi tạo dữ liệu và bắt đầu cho việc sử dụng. 
 
-#### Tạo và thiết lập phân quyền cho người dùng
+### Tạo và thiết lập phân quyền cho người dùng
 
 Để đăng nhập và sử dụng được ứng dụng Tài liệu, người dùng cần được cấp phân quyền cho ứng dụng. 
 
@@ -26,7 +24,7 @@ Việc thiết lập và khai báo ban đầu được thực hiện khi lần �
      - Người quản trị: có toàn quyền với tài liệu trong thư mục được gán quyền quản trị. 
 4. Kích **Lưu** 
 
-#### Tạo thư mục lưu trữ 
+### Tạo thư mục lưu trữ 
 
 Trước khi sử dụng hệ thống để lưu trữ, quản lý và khai thác tài liệu, đơn vị nên xây dựng quy hoạch cấu trúc thư mục lưu trữ  một cách khoa học và hiệu quả, đồng thời phân quyền sử dụng tài liệu thuộc thư mục cho người dùng.  
 
@@ -64,7 +62,7 @@ Ngay khi cài đặt ứng dụng Tài liệu, hệ thống có thiết lập m�
 6. Sau khi nhập xong thông tin thư mục, kích **Lưu** 
 
 
-#### Tạo và quản lý nhãn 
+### Tạo và quản lý nhãn 
 
 Cho phép tạo mới và quản lý các nhãn trên hệ thống dùng để phân loại và lọc tài liệu nhanh chóng. 
 

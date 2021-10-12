@@ -1,4 +1,4 @@
-# Giới thiệu về ứng dụng Tài liệu
+## Giới thiệu về ứng dụng Tài liệu
 
 Ứng dụng Tài liệu trên hệ thống cung cấp công cụ cho phép lưu trữ và quản lý các văn bản, hồ sơ, tài liệu nội bộ của doanh nghiệp tập trung trực tuyến, phục vụ mục đích tìm kiếm, truy xuất và khai thác một cách nhanh chóng, dễ dàng hơn. 
 
